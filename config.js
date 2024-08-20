@@ -10,12 +10,12 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['573218138672', 'Owner 🍭', true],
-   ['573012482597', 'Dev Diego 👑', true],
-   ['50558124470'],
-   ['573218138672'],
-   ['5351524614'],
-   ['573027866596']
+   ['573154498492', 'Owner 🍭', true],
+   ['573154498492', 'Warrior Fv 👑', true],
+   ['6285715469583'],
+   ['573154498492'],
+   ['573154498492'],
+   ['573154498492']
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -28,9 +28,9 @@ global.prems = []
 global.packname = '⪛✰ 𝐀𝐢 𝐘𝐚𝐞𝐦𝐨𝐫𝐢 - 𝐌𝐃 ✰⪜'
 global.botname = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 - 𝗠𝗗 🍭'
 global.wm = '𝗬𝗮𝗲𝗺𝗼𝗿𝗶 𝗕𝗼𝘁 - 𝗠𝗗 ⭐️'
-global.author = '𝖮𝖿𝖼.𝖣𝗂𝖾𝗀𝗈 👑'
-global.dev = '🚩 Powered By あ S_ᴅɪᴇɢᴏ あ'
-global.textbot = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 : 𝗢𝗳𝗰𝗗𝗶𝗲𝗴𝗼 🚩'
+global.author = 'Warrior.Fv 👑'
+global.dev = '🚩 Powered By あ warrior あ'
+global.textbot = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 : OfcWarrior 🚩'
 global.vs = '2.0.5'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -45,12 +45,12 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/BeukLUNoHtNJDKmMDTfQnd'
-global.grupo2 = 'https://chat.whatsapp.com/EVc2XJuZwjnKKdWUsRYmms'
-global.canal = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'
-global.yt = 'https://www.youtube.com/@OfcDiego' 
-global.correo = 'theyaemoribot@gmail.com'
+global.grupo = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6'
+global.grupo2 = 'https://chat.whatsapp.com/DsB5reksVMg1YCuI54UGM1'
+global.canal = 'https://whatsapp.com/channel/0029ValJCRRF6smww62OuJ0x'
+global.channel = 'https://whatsapp.com/channel/0029ValJCRRF6smww62OuJ0x'
+global.yt = 'https://youtube.com/@supremo_-sh2sd' 
+global.correo = 'fjvela64@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
